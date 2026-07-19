@@ -1,68 +1,74 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="500L — building useful AI agents and automation products" width="100%" />
+  <img src="./assets/header.webp" alt="500L — generative sculpture identity" width="100%" />
 </div>
 
 <p align="center">
-  <code>Agent Orchestration</code>&nbsp;&nbsp;
-  <code>Local-first AI</code>&nbsp;&nbsp;
-  <code>Product Engineering</code>&nbsp;&nbsp;
-  <code>Automation</code>
+  <code>Global Intelligence</code>&nbsp;&nbsp;
+  <code>Agent Systems</code>&nbsp;&nbsp;
+  <code>Knowledge Graphs</code>&nbsp;&nbsp;
+  <code>Product Engineering</code>
 </p>
 
 <p align="center">
-  我做可以真正运行、可以被验证、也愿意让人长期使用的 AI 产品。
+  把复杂世界变成可查询、可解释、可行动的系统。
 </p>
 
 <br />
 
-### Building now
+### Flagship system
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h3><a href="https://github.com/wei500L/nini">Newsroom Interview Lab</a></h3>
-      <p>面向新闻传播与媒体教育的本地优先多智能体采访训练平台。从真实来源生成场景，完成限时采访、实时导播、语音转录与可审计复盘。</p>
+    <td width="64%" valign="top">
+      <h2><a href="https://github.com/wei500L/newwei">NEWWEI</a></h2>
+      <p><strong>全球态势感知与新闻情报分析平台</strong></p>
+      <p>将多源新闻与事件数据经过采集、清洗、结构化、关联、检索和可视化，沉淀为可查询、可解释、可运营的情报资产。</p>
+      <p><code>PRIVATE FLAGSHIP</code>&nbsp; <code>TypeScript</code>&nbsp; <code>Modular Monolith</code></p>
+    </td>
+    <td width="36%" valign="top">
+      <p><strong>INTELLIGENCE LOOP</strong></p>
+      <p><code>01</code> Multi-source ingestion</p>
+      <p><code>02</code> LLM structuring</p>
+      <p><code>03</code> Knowledge graph</p>
+      <p><code>04</code> Impact analysis</p>
+      <p><code>05</code> Realtime signals</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Next.js 15 · NestJS 11 · GraphQL · Prisma · MongoDB · Redis · Qdrant · BullMQ · Three.js</sub>
+</p>
+
+### Open-source lab
+
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <h2><a href="https://github.com/wei500L/nini">Newsroom Interview Lab</a></h2>
+      <p><code>OPEN SOURCE</code>&nbsp; <code>LOCAL FIRST</code></p>
+    </td>
+    <td width="62%" valign="top">
+      <p>面向新闻传播与媒体教育的多智能体采访训练平台。以真实来源生成训练场景，并完成限时采访、实时导播、语音转录、量化复盘与长期学习闭环。</p>
       <p><sub>DeepSeek · Tavily MCP · Whisper · FastAPI · React · SSE · SQLite</sub></p>
     </td>
-    <td width="42%" valign="top">
-      <h3>What I care about</h3>
-      <p>◆ 有状态的 Agent 编排</p>
-      <p>◆ 真实工具链与流式交互</p>
-      <p>◆ 可追溯、可测试的 AI 输出</p>
-      <p>◆ 从原型到可用产品</p>
-    </td>
   </tr>
 </table>
 
-### Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wei500L/duckmail">DuckMail</a></h3>
-      <p>现代化临时邮箱服务，支持实时收信、多账户、多语言与暗色模式。</p>
-      <p><sub>Next.js · TypeScript · SSE</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wei500L/cai2">AI Diplomacy</a></h3>
-      <p>AI 外交博弈全栈 MVP，以类型化协议连接实时房间、阶段流转与智能体能力。</p>
-      <p><sub>React · TypeScript · FastAPI · WebSocket</sub></p>
-    </td>
-  </tr>
-</table>
-
-### Open-source pulse
+### Engineering principles
 
 <p align="center">
-  <img src="./metrics.svg" alt="500L contribution calendar and commit streaks" width="49%" />
-  <img src="./metrics-code.svg" alt="500L programming languages and lines pushed by open-source repository" width="49%" />
+  <code>Grounded over plausible</code>&nbsp;&nbsp;
+  <code>Systems over demos</code>&nbsp;&nbsp;
+  <code>Evidence over vibes</code>&nbsp;&nbsp;
+  <code>Products over prompts</code>
 </p>
 
-<p align="center">
-  <sub>自动更新于 Asia/Shanghai · 只统计本人维护的公开仓库</sub>
-</p>
+### Contribution field
 
-### Contribution trail
+<div align="center">
+  <img src="./metrics.svg" alt="500L contribution calendar and commit streaks" width="68%" />
+</div>
 
 <div align="center">
   <picture>
@@ -73,5 +79,5 @@
 </div>
 
 <p align="center">
-  <sub>每天刷新 · 让提交记录动起来</sub>
+  <sub>自动更新于 Asia/Shanghai</sub>
 </p>
