@@ -1,39 +1,63 @@
 <div align="center">
+  <img src="./assets/header.svg" alt="500L — building useful AI agents and automation products" width="100%" />
+</div>
 
-# 500L
+<p align="center">
+  <code>Agent Orchestration</code>&nbsp;&nbsp;
+  <code>Local-first AI</code>&nbsp;&nbsp;
+  <code>Product Engineering</code>&nbsp;&nbsp;
+  <code>Automation</code>
+</p>
 
-<samp>AI · AGENTS · AUTOMATION</samp>
+<p align="center">
+  我做可以真正运行、可以被验证、也愿意让人长期使用的 AI 产品。
+</p>
 
 <br />
 
-把想法编译成产品。
+### Building now
 
-</div>
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3><a href="https://github.com/wei500L/nini">Newsroom Interview Lab</a></h3>
+      <p>面向新闻传播与媒体教育的本地优先多智能体采访训练平台。从真实来源生成场景，完成限时采访、实时导播、语音转录与可审计复盘。</p>
+      <p><sub>DeepSeek · Tavily MCP · Whisper · FastAPI · React · SSE · SQLite</sub></p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>What I care about</h3>
+      <p>◆ 有状态的 Agent 编排</p>
+      <p>◆ 真实工具链与流式交互</p>
+      <p>◆ 可追溯、可测试的 AI 输出</p>
+      <p>◆ 从原型到可用产品</p>
+    </td>
+  </tr>
+</table>
 
----
+### Selected work
 
-<details open>
-<summary><strong>Code constellation</strong></summary>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/wei500L/duckmail">DuckMail</a></h3>
+      <p>现代化临时邮箱服务，支持实时收信、多账户、多语言与暗色模式。</p>
+      <p><sub>Next.js · TypeScript · SSE</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/wei500L/cai2">AI Diplomacy</a></h3>
+      <p>AI 外交博弈全栈 MVP，以类型化协议连接实时房间、阶段流转与智能体能力。</p>
+      <p><sub>React · TypeScript · FastAPI · WebSocket</sub></p>
+    </td>
+  </tr>
+</table>
 
-<br />
+### Open-source pulse
 
-<div align="center">
-  <img src="./metrics.svg" alt="500L's GitHub metrics: contribution calendar, coding activity, languages, and open-source code statistics" width="100%" />
-</div>
+<p align="center">
+  <img src="./metrics.svg" alt="500L contribution calendar and commit streaks" width="49%" />
+  <img src="./metrics-code.svg" alt="500L programming languages and lines pushed by open-source repository" width="49%" />
+</p>
 
-</details>
-
-<details open>
-<summary><strong>Coding rhythm</strong></summary>
-
-<br />
-
-<div align="center">
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="500L's coding activity by time of day" width="55%" />
-</div>
-
-</details>
-
-<div align="center">
-  <sub>Metrics refresh every day · Asia/Shanghai</sub>
-</div>
+<p align="center">
+  <sub>自动更新于 Asia/Shanghai · 只统计本人维护的公开仓库</sub>
+</p>
