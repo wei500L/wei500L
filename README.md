@@ -61,3 +61,17 @@
 <p align="center">
   <sub>自动更新于 Asia/Shanghai · 只统计本人维护的公开仓库</sub>
 </p>
+
+### Contribution trail
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake.svg" alt="A snake eating 500L's GitHub contribution graph" width="100%" />
+  </picture>
+</div>
+
+<p align="center">
+  <sub>每天刷新 · 让提交记录动起来</sub>
+</p>
