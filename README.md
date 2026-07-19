@@ -1,83 +1,112 @@
 <div align="center">
-  <img src="./assets/header.webp" alt="500L — generative sculpture identity" width="100%" />
+  <img src="./assets/header.svg" alt="500L — Silent Measure" width="100%" />
 </div>
 
 <p align="center">
-  <code>Global Intelligence</code>&nbsp;&nbsp;
-  <code>Agent Systems</code>&nbsp;&nbsp;
-  <code>Knowledge Graphs</code>&nbsp;&nbsp;
-  <code>Product Engineering</code>
+  <code>AI SYSTEMS</code>&nbsp;&nbsp;
+  <code>INTELLIGENCE</code>&nbsp;&nbsp;
+  <code>AUTOMATION</code>&nbsp;&nbsp;
+  <code>PRODUCT ENGINEERING</code>
 </p>
 
 <p align="center">
-  把复杂世界变成可查询、可解释、可行动的系统。
+  <strong>把噪声变成结构，把结构变成行动。</strong><br />
+  <sub>I build systems that turn complexity into leverage.</sub>
 </p>
 
 <br />
 
-### Flagship system
+## 01 / Private flagship
 
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <h2><a href="https://github.com/wei500L/newwei">NEWWEI</a></h2>
-      <p><strong>全球态势感知与新闻情报分析平台</strong></p>
-      <p>将多源新闻与事件数据经过采集、清洗、结构化、关联、检索和可视化，沉淀为可查询、可解释、可运营的情报资产。</p>
-      <p><code>PRIVATE FLAGSHIP</code>&nbsp; <code>TypeScript</code>&nbsp; <code>Modular Monolith</code></p>
-    </td>
-    <td width="36%" valign="top">
-      <p><strong>INTELLIGENCE LOOP</strong></p>
-      <p><code>01</code> Multi-source ingestion</p>
-      <p><code>02</code> LLM structuring</p>
-      <p><code>03</code> Knowledge graph</p>
-      <p><code>04</code> Impact analysis</p>
-      <p><code>05</code> Realtime signals</p>
-    </td>
-  </tr>
-</table>
+# NEWWEI
 
-<p align="center">
-  <sub>Next.js 15 · NestJS 11 · GraphQL · Prisma · MongoDB · Redis · Qdrant · BullMQ · Three.js</sub>
+> 一个面向组织的全球态势感知与新闻情报分析系统。它把多源新闻和事件数据组织成可查询、可解释、可运营的情报资产。
+
+**从原始世界到可行动信号：**
+
+`INGEST` → `CLEAN` → `STRUCTURE` → `CONNECT` → `RETRIEVE` → `EXPLAIN` → `ALERT`
+
+系统不是一张 AI 演示页，而是一条完整的生产链路：种子优先与 LLM 辅助的采集前沿、证据绑定的知识图谱、影响链分析、向量检索、实时信号，以及面向分析与运营的控制台。
+
+<p>
+  <code>4 runtime apps</code>&nbsp;
+  <code>5 shared packages</code>&nbsp;
+  <code>REST + GraphQL + WebSocket</code>&nbsp;
+  <code>modular monolith</code>
 </p>
 
-### Open-source lab
+<sub>Next.js 15 · React 19 · NestJS 11 · Prisma · MongoDB · Redis · Qdrant · BullMQ · Three.js · LiteLLM</sub>
 
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <h2><a href="https://github.com/wei500L/nini">Newsroom Interview Lab</a></h2>
-      <p><code>OPEN SOURCE</code>&nbsp; <code>LOCAL FIRST</code></p>
-    </td>
-    <td width="62%" valign="top">
-      <p>面向新闻传播与媒体教育的多智能体采访训练平台。以真实来源生成训练场景，并完成限时采访、实时导播、语音转录、量化复盘与长期学习闭环。</p>
-      <p><sub>DeepSeek · Tavily MCP · Whisper · FastAPI · React · SSE · SQLite</sub></p>
-    </td>
-  </tr>
-</table>
+<br />
 
-### Engineering principles
+> **Private by design.** 仓库暂未公开，因此这里不放一个会让访客得到 404 的假入口；展示的是已经落到代码与运行边界中的系统能力。
 
-<p align="center">
-  <code>Grounded over plausible</code>&nbsp;&nbsp;
-  <code>Systems over demos</code>&nbsp;&nbsp;
-  <code>Evidence over vibes</code>&nbsp;&nbsp;
-  <code>Products over prompts</code>
+---
+
+## 02 / Open-source lab
+
+# [Newsroom Interview Lab →](https://github.com/wei500L/nini)
+
+**不是聊天机器人，而是一间可训练、可追溯、会复盘的 AI 新闻演播室。**
+
+面向新闻传播、媒体教育与 Agent 教学的本地优先多智能体采访训练平台。系统用真实公开来源生成场景，让资料编辑、模拟嘉宾、实时导播、客观速记与复盘评委协同完成一次有时间压力、有隐藏事实、有证据约束的采访。
+
+- **Grounded** — Tavily MCP 检索真实来源，Writer / Critic 与代码门禁阻止无来源内容进入训练。
+- **Live** — DeepSeek token 通过 SSE 原样流式返回；Director 提供经过防泄漏检查的实时耳返。
+- **Local-first** — Whisper Medium 在本机完成中文语音转录，SQLite 保存跨场次能力画像。
+- **Auditable** — 客观指标由代码计算，语义评分必须引用真实回合证据。
+
+<p>
+  <a href="https://github.com/wei500L/nini"><strong>Repository</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/wei500L/nini/blob/main/newsroom/docs/sequence.md">Sequence</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/wei500L/nini/blob/main/newsroom/docs/memory-design.md">Memory design</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/wei500L/nini/blob/main/newsroom/docs/speech-design.md">Speech pipeline</a>
 </p>
 
-### Contribution field
+<sub>DeepSeek · Tavily MCP · Whisper · FastAPI · React · TypeScript · SSE · SQLite</sub>
+
+---
+
+## Selected codebase
 
 <div align="center">
-  <img src="./metrics.svg" alt="500L contribution calendar and commit streaks" width="68%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake.svg" alt="A snake eating 500L's GitHub contribution graph" width="100%" />
-  </picture>
+  <img src="./assets/codebase.svg" alt="Selected codebase footprint: 555.6K physical source lines across newwei and nini" width="100%" />
 </div>
 
 <p align="center">
-  <sub>自动更新于 Asia/Shanghai</sub>
+  <sub>2026.07 snapshot · physical source lines · allowlist: newwei + nini · generated code, docs, public assets, build output, vendors and lockfiles excluded</sub>
+</p>
+
+## Operating principles
+
+`01` **Grounded over plausible** — 先建立证据，再让模型说话。<br />
+`02` **Systems over demos** — 设计完整反馈回路，而不是一次性效果。<br />
+`03` **Calm interfaces, hard machinery** — 复杂度留在系统里，清晰度留给用户。<br />
+`04` **Ship the difficult middle** — 不只做开头的灵感，也完成中间最难的工程。
+
+## Contribution field
+
+<div align="center">
+  <img src="./metrics.svg" alt="500L full-year contribution calendar and streaks" width="82%" />
+</div>
+
+<details>
+  <summary><strong>One unnecessary but satisfying snake</strong></summary>
+  <br />
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake.svg" />
+      <img src="https://raw.githubusercontent.com/wei500L/wei500L/output/github-snake.svg" alt="A contribution snake" width="100%" />
+    </picture>
+  </div>
+</details>
+
+<br />
+
+<p align="center">
+  <sub>Metrics refresh daily · Asia/Shanghai</sub>
 </p>
