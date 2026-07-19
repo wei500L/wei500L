@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/header.webp" alt="A sculptural GitHub contribution field in graphite, cobalt and signal red" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile.webp" />
+    <img src="./assets/header.webp" alt="A sculptural GitHub contribution field in graphite, cobalt and signal red" width="100%" />
+  </picture>
 </div>
 
 # 500L
@@ -14,13 +17,13 @@
 
 面向组织的全球态势感知与新闻情报分析系统。它将多源新闻和事件数据整理为可查询、可解释、可持续运营的情报资产。
 
-**System path**  
+**System path**<br />
 `INGEST → CLEAN → STRUCTURE → CONNECT → RETRIEVE → EXPLAIN → ALERT`
 
-**Architecture**  
+**Architecture**<br />
 4 runtime applications · 5 shared packages · modular monolith · REST / GraphQL / WebSocket
 
-**Stack**  
+**Stack**<br />
 Next.js 15 · React 19 · NestJS 11 · Prisma · MongoDB · Redis · Qdrant · BullMQ · Three.js · LiteLLM
 
 采集、知识图谱、影响链分析、向量检索、实时信号与运营控制台共同组成完整生产链路。仓库保持私有，因此这里不提供无效的公开链接。
@@ -46,7 +49,7 @@ Next.js 15 · React 19 · NestJS 11 · Prisma · MongoDB · Redis · Qdrant · B
 
 ## Selected codebase
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%"><strong>555,552</strong><br /><sub>physical source lines</sub></td>
     <td align="center" width="33%"><strong>1,932</strong><br /><sub>source files</sub></td>
