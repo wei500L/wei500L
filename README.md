@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**wei500L/wei500L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 500L
 
-Here are some ideas to get you started:
+<samp>AI · AGENTS · AUTOMATION</samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+把想法编译成产品。
+
+</div>
+
+---
+
+<details open>
+<summary><strong>Code constellation</strong></summary>
+
+<br />
+
+<div align="center">
+  <img src="./metrics.svg" alt="500L's GitHub metrics: contribution calendar, coding activity, languages, and open-source code statistics" width="100%" />
+</div>
+
+</details>
+
+<details open>
+<summary><strong>Coding rhythm</strong></summary>
+
+<br />
+
+<div align="center">
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="500L's coding activity by time of day" width="55%" />
+</div>
+
+</details>
+
+<div align="center">
+  <sub>Metrics refresh every day · Asia/Shanghai</sub>
+</div>
